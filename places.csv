@@ -1,0 +1,251 @@
+place_id,city_id,place_name,category,description,duration_hours,opening_hours,entry_fee,rating,latitude,longitude,best_time_to_visit
+1,1,Charminar,History,Iconic 16th-century mosque and monument in Hyderabad.,1.5,9:30 AM – 5:30 PM,0,4.5,17.3616,78.4747,
+2,1,Golconda Fort,History,Historic fort known for architecture and light show.,2.0,9:00 AM – 5:30 PM,50,4.6,17.3833,78.4011,
+3,1,Salar Jung Museum,History,Famous museum housing art and antiques.,2.0,10:00 AM – 5:00 PM,20,4.7,17.3716,78.4802,
+4,1,Ramoji Film City,Entertainment/Tourism,"Ramoji Film City is the world’s largest film-studio complex, combining movie-sets, theme-park attractions, gardens",8.0,09:00-17:30,1250,4.5,17.2546,78.65,
+5,1,Birla Mandir,Temple,"Birla Mandir is a white-marble Hindu temple on a 280-foot hillock (Naubat Pahad), dedicated to Lord Venkateswara",1.5,7:00-12:00 & 15:00-21:00,0,4.5,17.4225,78.4449,
+6,2,RK Beach,Adventure,Famous beach in Visakhapatnam for leisure and walks.,2.0,Open 24 hours,0,4.3,17.7,83.303,
+7,2,INS Kursura Museum,History,Submarine museum showcasing naval history.,1.0,10:00 AM – 5:00 PM,20,4.4,17.71,83.3,
+8,2,Kailasagiri,Adventure,Hilltop park with panoramic views.,1.5,6:00 AM – 9:00 PM,0,4.5,17.725,83.308,
+9,2,Rushikonda Beach,Adventure,Famous beach in Visakhapatnam for leisure and walks.,4.0,Open 24 hours,0,4.5,17.822,83.46,
+10,3,"Lalbagh Botanical Garden,",Adventure,Famous botanical garden with rare plants.,2.0,6:00 AM – 7:00 PM,25,4.6,12.9507,77.5848,
+11,3,Bangalore Palace,History,Royal palace with Tudor-style architecture.,1.5,10:00 AM – 5:30 PM,230,4.5,12.998,77.592,
+12,3,Tipu Sultan's Summer Palace,History,Historic summer palace of Tipu Sultan.,1.0,9:00 AM – 5:00 PM,15,4.4,12.949,77.57,
+13,4,Mysore Palace,History,Grand palace with exquisite interiors and heritage.,2.0,10:00 AM – 5:30 PM,70,4.7,12.3051,76.6551,
+14,4,Chamundi Hill,Adventure,Hill with temple and panoramic city views.,1.5,6:00 AM – 8:00 PM,0,4.4,12.321,76.6799,
+15,4,St. Philomena's Church,History,Neo-Gothic church in Mysore.,1.0,8:00 AM – 6:00 PM,0,4.5,12.3086,76.6559,
+16,5,Marina Beach,Adventure,Iconic Chennai beach for leisure and food.,2.0,Open 24 hours,0,4.3,13.0452,80.2498,
+17,5,Kapaleeshwarar Temple,Temple,Ancient temple dedicated to Lord Shiva.,1.0,6:00 AM – 8:00 PM,0,4.5,13.0309,80.251,
+18,5,Fort St. George,History,Historic fort and museum in Chennai.,1.5,9:00 AM – 5:00 PM,20,4.4,13.0827,80.282,
+19,6,Marudamalai Temple,Temple,Popular hill temple near Coimbatore.,1.5,5:00 AM – 9:00 PM,0,4.4,11.033,76.93,
+20,6,Ganesh Temple,Temple,Famous local temple in Coimbatore.,1.0,6:00 AM – 8:00 PM,0,4.3,11.017,76.974,
+21,6,VOC Park,Adventure,Public park for leisure and walks.,1.5,6:00 AM – 7:00 PM,0,4.2,11.0168,76.9558,
+22,7,Fort Kochi,History,Historic area with colonial architecture.,2.0,9:00 AM – 7:00 PM,0,4.5,9.9667,76.24,
+23,7,Chinese Fishing Nets,Adventure,Iconic fishing nets along the waterfront.,1.0,6:00 AM – 6:00 PM,0,4.4,9.966,76.239,
+24,7,Mattancherry Palace,History,Portuguese palace with murals and exhibits.,1.5,9:00 AM – 5:00 PM,5,4.5,9.9662,76.244,
+25,8,Padmanabhaswamy Temple,Temple,Famous temple in Thiruvananthapuram.,1.0,5:00 AM – 12:00 PM & 4:00 PM – 8:00 PM,0,4.6,8.4873,76.9471,
+26,8,Kovalam Beach,Adventure,Popular beach destination for relaxation.,2.0,Open 24 hours,0,4.5,8.402,76.978,
+27,8,Kuthiramalika Palace Museum,History,Palace museum with artifacts.,1.5,9:00 AM – 5:00 PM,20,4.4,8.485,76.949,
+28,9,Gateway of India,History,Famous monument and tourist attraction in Mumbai.,1.5,6:00 AM – 6:30 PM,0,4.6,18.922,72.8347,
+29,9,Marine Drive,Adventure,Iconic promenade along the coastline.,1.0,Open 24 hours,0,4.5,18.9433,72.8237,
+30,9,Elephanta Caves,History,UNESCO World Heritage site with rock-cut temples.,2.0,9:00 AM – 5:30 PM,50,4.7,18.963,72.9317,
+31,10,Shaniwar Wada,History,Historic fortification in Pune.,1.5,9:00 AM – 5:30 PM,25,4.4,18.5196,73.8553,
+32,10,Aga Khan Palace,History,Historic palace known for its architecture and Gandhi connection.,1.5,9:00 AM – 5:00 PM,30,4.5,18.5619,73.918,
+33,10,Pataleshwar Cave Temple,Temple,Ancient rock-cut cave temple.,1.0,6:00 AM – 6:00 PM,0,4.3,18.518,73.855,
+34,11,Deekshabhoomi,History,Important Buddhist monument in Nagpur.,1.0,6:00 AM – 6:00 PM,0,4.4,21.1458,79.0882,
+35,11,Futala Lake,Adventure,Popular lake with scenic views.,1.5,6:00 AM – 9:00 PM,0,4.2,21.147,79.09,
+36,11,Ramtek Fort Temple,Temple,Historic temple on a hill.,1.5,6:00 AM – 6:00 PM,0,4.3,21.294,79.378,
+37,12,Ajanta Caves,History,UNESCO World Heritage site with ancient Buddhist caves.,3.0,9:00 AM – 5:00 PM,40,4.8,20.5529,75.7033,
+38,12,Ellora Caves,History,Cave complex with rock-cut temples.,3.0,9:00 AM – 5:00 PM,40,4.7,20.0231,75.1796,
+39,12,Bibi Ka Maqbara,History,Historic tomb in Aurangabad.,1.5,:00 AM – 6:00 PM,30,4.6,19.8833,75.352,
+40,13,Church of Our Lady of Immaculate Conception,History,Iconic church in Panaji.,1.0,6:00 AM – 6:00 PM,0,4.5,15.4989,73.835,
+41,13,Calangute Beach,Adventure,Popular beach in Goa.,2.0,Open 24 hours,0,4.4,15.546,73.754,
+42,13,Basilica of Bom Jesus,History,UNESCO World Heritage church.,1.5,7:00 AM – 7:00 PM,0,4.6,15.593,73.912,
+43,14,Sabarmati Ashram,History,Historic ashram of Mahatma Gandhi.,1.5,8:00 AM – 6:00 PM,0,4.6,23.055,72.6,
+44,14,Akshardham Temple,Temple,Beautiful temple in Ahmedabad.,1.5,9:30 AM – 6:30 PM,0,4.7,23.0225,72.5714,
+45,14,Kite Museum,History,Museum showcasing kites and crafts.,1.0,10:00 AM – 5:00 PM,20,4.3,23.028,72.561,
+46,15,Surat Castle,History,Historic fort in Surat.,1.0,9:00 AM – 6:00 PM,10,4.3,21.195,72.83,
+47,15,Dumas Beach,Adventure,Popular urban beach in Surat.,2.0,Open 24 hours,0,4.2,21.167,72.816,
+48,15,Sarthana Nature Park,Adventure,Zoo and park in Surat.,1.5,9:00 AM – 5:00 PM,20,4.1,21.196,72.822,
+49,16,Hawa Mahal,History,History,1.5,9:00 AM – 5:00 PM,50,4.6,26.9239,75.8267,
+50,16,Amber Fort,History,Historic fort with scenic views.,2.0,8:00 AM – 5:30 PM,100,4.7,26.9855,75.8515,
+51,16,Jantar Mantar,History,Astronomical observatory.,1.5,9:00 AM – 4:30 PM,40,4.5,26.9244,75.824,
+52,17,Lake Pichola,Adventure,Scenic lake with boat rides.,1.5,7:00 AM – 6:00 PM,0,4.6,24.577,73.68,
+53,17,Jagdish Temple,Temple,Historic Hindu temple.,1.0,6:00 AM – 9:00 PM,0,4.5,24.585,73.682,
+54,17,City Palace,History,Royal palace with museums and gardens.,2.0,9:30 AM – 5:30 PM,100,4.7,24.576,73.6835,
+55,18,Mehrangarh Fort,History,Historic fort with panoramic city views.,2.0,9:00 AM – 5:00 PM,100,4.8,26.295,73.035,
+56,18,Umaid Bhawan Palace,History,Grand palace with museum.,1.5,9:00 AM – 5:00 PM,100,4.7,26.297,73.03,
+57,18,Clock Tower,History,Local market area and landmark.,1.0,9:00 AM – 7:00 PM,0,4.4,26.296,73.032,
+58,19,Red Fort,History,Historic fort and UNESCO World Heritage site.,2.0,9:30 AM – 4:30 PM,0,4.5,28.6562,77.241,
+59,19,Qutub Minar,History,Tallest brick minaret in India.,1.5,7:00 AM – 5:00 PM,30,4.6,28.5244,77.1855,
+60,19,India Gate,History,War memorial in New Delhi.,1.0,Open 24 hours,0,4.7,28.6129,77.2295,
+61,20,Taj Mahal,History,World-famous monument and UNESCO site.,2.0,6:00 AM – 6:30 PM,50,4.9,27.1751,78.0421,
+62,20,Agra Fort,History,Historic fort near Taj Mahal.,1.5,6:00 AM – 6:00 PM,40,4.7,27.179,78.0211,
+63,20,Fatehpur Sikri,History,Historic city and UNESCO site.,2.0,9:00 AM – 5:00 PM,50,4.6,27.092,77.66,
+64,21,Kashi Vishwanath Temple,Temple,Famous Shiva temple in Varanasi.,1.0,5:00 AM – 10:00 PM,0,4.8,25.31,82.9739,
+65,21,Dashashwamedh Ghat,Adventure,Iconic ghat for evening aarti ceremonies.,1.5,5:00 AM – 9:00 PM,0,4.7,25.309,82.9732,
+66,22,Bara Imambara,History,Historic monument with labyrinth in Lucknow.,1.5,6:00 AM – 6:00 PM,20,4.6,26.85,80.915,
+67,22,Rumi Darwaza,History,Imposing gateway in Lucknow.,1.0,6:00 AM – 6:00 PM,0,4.5,26.847,80.913,
+68,23,Allen Forest Zoo,Adventure,Zoo in Kanpur with wildlife exhibits.,1.5,9:00 AM – 5:00 PM,50,4.3,26.468,80.317,
+69,23,Jahangirabad Fort,History,Historic fort near Kanpur.,1.0,9:00 AM – 5:00 PM,0,4.2,26.466,80.3175,
+70,24,Victoria Memorial,History,Iconic marble monument in Kolkata.,2.0,10:00 AM – 5:00 PM,30,4.7,22.5448,88.3426,
+71,24,Dakshineswar Kali Temple,Temple,Famous Kali temple along the Hooghly River.,1.0,5:00 AM – 9:00 PM,0,4.6,22.6456,88.3778,
+72,24,Eden Gardens,Adventure,Historic cricket stadium.,1.5,9:00 AM – 6:00 PM,0,4.5,22.5646,88.343,
+73,25,Darjeeling Himalayan Railway,History,UNESCO heritage toy train.,2.0,6:00 AM – 6:00 PM,100,4.8,27.036,88.2627,
+74,25,Batasia Loop,Adventure,Scenic railway loop with garden.,1.0,5:00 AM – 6:00 PM,0,4.5,27.033,88.263,
+75,25,Tiger Hill,Adventure,Famous viewpoint for sunrise over Himalayas.,2.0,4:00 AM – 7:00 AM,0,4.7,27.018,88.298,
+76,26,Rumtek Monastery,History,Largest monastery in Sikkim.,1.5,7:00 AM – 5:00 PM,20,4.7,27.338,88.609,
+77,26,MG Marg,Adventure,Popular shopping and food street.,1.5,9:00 AM – 9:00 PM,0,4.5,27.3386,88.6132,
+78,26,Tsomgo Lake,Adventure,Scenic glacial lake near Gangtok.,2.0,6:00 AM – 6:00 PM,50,4.6,27.314,88.6099,
+79,27,Golghar,History,Historic granary in Patna.,1.0,9:00 AM – 5:00 PM,0,4.4,25.609,85.141,
+80,27,Patna Museum,History,Museum with historical artifacts.,1.5,10:00 AM – 5:00 PM,10,4.3,25.605,85.1415,
+81,27,St. Mary's Church,History,Old colonial church in Patna.,1.0,8:00 AM – 5:00 PM,0,4.2,25.613,85.1412,
+82,28,Bodh Gaya Mahabodhi Temple,Temple,UNESCO site and important Buddhist temple,2.0,5:00 AM – 9:00 PM,0,4.9,24.695,84.991,
+83,28,Dhamek Stupa,History,Ancient stupa near Mahabodhi temple.,1.0,6:00 AM – 6:00 PM,0,4.7,24.6955,84.9915,
+84,28,Vishnupad Temple,Temple,Historic temple in Bodh Gaya.,1.0,5:00 AM – 9:00 PM,0,4.6,24.698,84.99,
+85,29,Kamakhya Temple,Temple,Famous temple in Guwahati.,1.0,5:00 AM – 7:00 PM,0,4.8,26.171,91.703,
+86,29,Umananda Island,Adventure,Small river island with temple.,1.5,6:00 AM – 4:00 PM,10,4.5,26.18,91.746,
+87,29,Assam State Museum,History,Museum showcasing Assam heritage.,1.5,9:00 AM – 5:00 PM,20,4.3,26.18,91.75,
+88,30,Ward's Lake,Adventure,Scenic artificial lake in Shillong.,1.0,6:00 AM – 7:00 PM,0,4.4,25.577,91.893,
+89,30,Shillong Peak,Adventure,Highest point in Shillong with views.,1.5,6:00 AM – 6:00 PM,0,4.5,25.585,91.8935,
+90,30,Don Bosco Museum,History,Museum showcasing Northeast culture.,1.5,9:00 AM – 5:00 PM,20,4.6,25.5855,91.882,
+91,31,Rock Garden,Adventure,Sculptural garden in Chandigarh.,2.0,9:00 AM – 7:00 PM,0,4.6,30.7333,76.7794,
+92,31,Sukhna Lake,Adventure,Man-made lake for boating and leisure.,1.5,6:00 AM – 8:00 PM,0,4.5,30.7336,76.7816,
+93,31,Chandigarh Rose Garden,Adventure,Largest rose garden in Asia.,1.5,6:00 AM – 7:00 PM,0,4.4,30.7433,76.774,
+94,32,Golden Temple,Temple,Iconic Sikh temple in Amritsar.,2.0,4:00 AM – 10:00 PM,0,4.9,31.62,74.8765,
+95,32,Jallianwala Bagh,History,Historic site of 1919 massacre.,1.5,6:00 AM – 8:00 PM,0,4.8,31.633,74.873,
+96,32,Wagah Border,History,Historic fort in Jammu.,1.5,8:00 AM – 6:00 PM,0,4.4,32.724,74.857,
+97,33,Raghunath Temple,Temple,Famous temple in Jammu.,1.0,6:00 AM – 8:00 PM,0,4.5,32.727,74.8575,
+98,33,Mansar Lake,Adventure,Scenic lake near Jammu.,2.0,6:00 AM – 6:00 PM,0,4.4,32.662,75.02,
+99,33,Bahu Fort,History,Historic fort in Jammu.,1.5,8:00 AM – 6:00 PM,0,4.4,32.724,74.857,
+100,34,Dal Lake,Adventure,Iconic lake with houseboats in Srinagar.,2.0,6:00 AM – 6:00 PM,0,4.8,34.0837,74.7973,
+101,34,Mughal Gardens,History,Historic gardens in Srinagar.,1.5,9:00 AM – 6:00 PM,0,4.7,34.0836,74.7972,
+102,34,Shankaracharya Temple,Temple,Temple on hill with city views.,1.5,6:00 AM – 8:00 PM,0,4.6,34.097,74.812,
+103,35,Shimla Mall Road,Adventure,Main shopping street in Shimla.,1.5,9:00 AM – 9:00 PM,0,4.5,31.1048,77.1734,
+104,35,The Ridge,Adventure,Open space in Shimla with views.,1.0,6:00 AM – 9:00 PM,0,4.4,31.1049,77.1736,
+105,35,Kufri,Adventure,Hill station near Shimla with activities.,2.0,6:00 AM – 6:00 PM,0,4.5,31.1015,77.2085,
+106,36,Hadimba Temple,Temple,Historic temple in Manali.,1.0,6:00 AM – 7:00 PM,0,4.7,32.2396,77.1887,
+107,36,Solang Valley,Adventure,Adventure sports destination.,2.0,6:00 AM – 6:00 PM,0,4.6,32.267,77.188,
+108,36,Manali Mall Road,Adventure,Main street for shopping and food.,1.5,9:00 AM – 9:00 PM,0,4.5,32.239,77.189,
+109,37,Taj-ul-Masajid,History,One of the largest mosques in India.,1.5,6:00 AM – 7:00 PM,0,4.5,23.241,77.431,
+110,37,Bhopal Lake,Adventure,Popular lake for leisure.,1.5,6:00 AM – 7:00 PM,0,4.4,23.2599,77.4126,
+111,37,Sanchi Stupa,History,UNESCO World Heritage Buddhist site near Bhopal.,2.0,8:00 AM – 6:00 PM,50,4.8,23.4845,77.739,
+112,38,Indore Rajwada,History,Historic palace in Indore.,1.5,9:00 AM – 6:00 PM,0,4.4,22.7196,75.8577,
+113,38,Chappan Dukan,Adventure,Famous street for food and shopping,1.5,9:00 AM – 10:00 PM,0,4.5,22.721,75.847,
+114,38,Kanch Mandir,History,Famous Jain temple with glass mirrors.,1.0,6:00 AM – 9:00 PM,0,4.6,22.7156,75.8444,
+115,39,Lingaraj Temple,Temple,Famous temple in Bhubaneswar.,1.5,5:00 AM – 9:00 PM,0,4.7,20.233,85.8285,
+116,39,Dhauli Shanti Stupa,History,Peace pagoda on the banks of Daya River.,1.0,6:00 AM – 6:00 PM,0,4.6,20.242,85.839,
+117,39,Udayagiri and Khandagiri Caves,History,ncient Jain caves near Bhubaneswar.,2.0,9:00 AM – 5:00 PM,20,4.5,20.226,85.824,
+118,40,Jagannath Temple,Temple,Famous temple in Puri.,1.5,5:00 AM – 8:00 PM,0,4.8,19.8135,85.8312,
+119,40,Puri Beach,Adventure,Popular beach destination.,2.0,Open 24 hours,0,4.6,19.779,85.857,
+120,40,Chilika Lake,Adventure,Largest coastal lagoon in India near Puri.,2.0,6:00 AM – 6:00 PM,0,4.7,19.697,85.301,
+121,41,Jungle Mist Resort,Resort,"The Jungle Mist Resort in Rishikesh offers a tranquil jungle-stay experience with eco-friendly cottages and glamping tents, surrounded by Himalayan foothills and dense forests.",24.0,Open 24 hours,Varies(room based),4.6,30.017,78.257,
+122,41,camp rishikesh Hills,Adventure,Camp Rishikesh Hills is an adventure-cum-resort stay near Rishikesh offering tents and cottages amid Himalayan foothills and forests.,24.0,Open 24 hours,Varies (booking based),4.4,30.0915,78.266,
+123,42,Alleppey Houseboat Cruise,Backwater/Experience,"The Alleppey Houseboat Cruise is a signature Kerala backwater experience where visitors glide through serene canals, palm-fringed waterways, villages, lagoons and rice fields aboard traditional kettuvallam houseboats.",5.0,09:00 AM–5:00 PM,1000-8000,4.7,9.498,76.3389,
+124,42,Shikara Boat Ride,Backwater/Experience,"The Shikara Boat Ride offers a peaceful and scenic journey on traditional wooden boats through calm backwaters, narrow canals, lotus-filled lakes and village waterways.",2.0,8:00 AM-6:00 PM,300-1500,4.6,9.498,76.3389,
+125,43,Drung Waterfalls,Nature/Waterfall,Drung Waterfall (also called Drang Waterfall) is a stunning natural cascade located near Tangmarg in Jammu & Kashmir. ,2.0,8:00 AM-6:00 PM,0,4.6,34.0563,74.3658,
+126,43,Gulmarg Horse Ride,Adventure,"Horse riding in Gulmarg is one of the most popular activities, offering scenic trails through meadows, pine forests, and Himalayan foothills.",1.5,8:00 AM-5:00 PM,500,4.6,34.0484,74.38,
+127,7,wayanad,Adventure,Ancient caves with prehistoric carvings located on Ambukutty Mala; requires a short trek to reach.,2.0,9:00 AM–5:00 PM,50,4.5,11.5525,76.2363,
+128,7,Kodaikanal,Adventure,"Star-shaped lake at heart of Kodai — boating, cycling/walk around lake, lakeside strolls and relaxing ambience.",1.5,6:00 AM-6:00 PM,40,4.4,10.2389,77.489,
+129,6,Ooty Lake,Adventure,"Artificial lake offering boating, pedal boats, cycling & lakeside activities; major landmark built in 1824.",1.5,9:00 AM-6:00PM,20,4.2,11.4064,76.695,
+130,44,Pangong Lake,Adventure / Nature,"High-altitude lake spanning India and China border (Ladakh region), famous for changing water colors, dramatic arid mountain scenery, and popular for camping, photography, and scenic views.",3.0,accessible all day;,0,4.8,33.775,78.9534,
+131,44,Indus Valley,History,"The ancient river valley region in Ladakh where the Indus River flows, known for its cultural significance, scenic landscapes, early settlements, monasteries, and historical importance linked to the Indus Valley Civilization. Popular for photography, heritage visits, and river viewpoints.",2.0,Open 24 hours,0,4.7,34.1526,77.5771,
+132,44,Nubra Valley,Adventure / Nature,"High-altitude cold desert in Ladakh, famous for sand dunes, double-humped Bactrian camels, monasteries (Diskit, Hundur), scenic drives, and river valleys (Shyok & Nubra). Popular for trekking, photography, cultural experiences, and desert camping.",4.0,Sunrise–Sunset,0,4.8,34.95,77.56,
+133,46,Abbey Falls,Adventure,Famous cascading waterfall surrounded by coffee plantations; scenic spot for photography and short treks.,2.0,8:00 AM-5:00 PM,30,4.4,12.337,75.8262,
+134,46,Raja’s Seat,Adventure,"Scenic viewpoint offering panoramic views of hills, valleys, and sunset; beautifully landscaped garden.",1.0,6:00 AM-7:00PM,20,4.3,12.3378,75.8289,
+135,46,Talakaveri,Temple,Sacred origin of river Kaveri; pilgrimage site with temple and lush surroundings in Brahmagiri hills.,2.0,6:00 AM-6:00 PM,0,4.4,12.41,75.695,
+136,45,Virupaksha Temple,Temple,Ancient temple dedicated to Lord Shiva; still active for worship; iconic Hampi landmark.,2.0,6:00 AM-7:00PM,0,4.6,15.3352,76.462,
+137,45,Vittala Temple Complex,History / Adventure,"Famous for Stone Chariot, musical pillars, and intricate carvings; major heritage site.",2.0,6:00AM-6:00PM,40,4.7,15.3358,76.465,
+138,45,Lotus Mahal,History,Indo-Islamic palace structure with unique architecture; part of Zenana enclosure.,1.0,8:00AM-5:00PM,25,4.3,15.338,76.4625,
+139,47,Borra Caves,Adventure / History,Limestone caves with stalactites and stalagmites; natural underground formations and unique rock structures.,2.0,9:00AM-4:00PM,50,4.4,18.335,82.835,
+140,47,Katiki Waterfalls,Adventure,"Stunning waterfall surrounded by forests; ideal for trekking, photography, and short nature walks.",1.0,8:00AM-5:00PM,0,4.5,18.321,82.845,
+141,47,Coffee Plantations,Adventure,"Araku is known for its coffee estates; tourists can visit plantations, learn about coffee processing, and taste fresh coffee.",2.0,9:00 AM-5:00 PM,0,4.6,18.33,82.82,
+142,47,Chaparai Waterfalls,Adventure,"Lesser-known waterfall, serene environment, trekking required; perfect for nature lovers.",1.0,8:00AM-5:00PM,0,4.2,18.328,82.838,
+143,1,Ramoji Film City,Adventure,World's largest integrated film city and leisure hub.,,,1150,4.5,17.2543,78.6808,Winter
+144,1,Chowmahalla Palace,Historic,"Palace of the Nizams, seat of the Asaf Jahi dynasty.",,,80,4.6,17.3581,78.4717,Anytime
+145,1,Birla Mandir,Temple,Magnificent white marble temple dedicated to Lord Venkateswara.,,,Free,4.7,17.4062,78.4691,Evening
+146,2,Yarada Beach,Nature,Pristine beach surrounded by hills on three sides.,,,Free,4.4,17.6548,83.2694,Sunrise/Sunset
+147,2,Simhachalam Temple,Temple,Ancient 11th-century temple dedicated to Lord Narasimha.,,,Free,4.8,17.7664,83.2505,Morning
+148,2,Borra Caves,Nature,Millions of years old stalactite/stalagmite limestone caves.,,,60,4.5,18.2811,83.0378,Anytime
+149,3,Bangalore Palace,Historic,Architecture inspired by Windsor Castle in England.,,,230,4.5,13.0035,77.5891,Anytime
+150,3,Bannerghatta National Park,Nature,"Zoo and safari park with tigers, lions and bears.",,,260,4.2,12.8009,77.5777,Morning
+151,3,Vidhana Soudha,Historic,The seat of the state legislature of Karnataka.,,,Free,4.6,12.9796,77.5906,Evening
+152,4,St. Philomena's Church,Historic,"Neo-Gothic style church, one of the tallest in Asia.",,,Free,4.6,12.3211,76.6586,Anytime
+153,4,Jaganmohan Palace,Museum,Houses an extensive collection of artifacts and paintings.,,,20,4.3,12.3061,76.6481,Anytime
+154,4,Mysore Zoo,Nature,One of the oldest and most popular zoos in India.,,,100,4.7,12.3021,76.6644,Morning
+155,5,Government Museum,Museum,"Second oldest museum in India, famous for bronze gallery.",,,15,4.4,13.0732,80.2564,Anytime
+156,5,Elliot's Beach,Relaxation,"Quiet alternative to Marina, popular among locals.",,,Free,4.2,12.9997,80.2721,Evening
+157,5,Guindy National Park,Nature,Smallest national park in India located within a city.,,,20,4.0,13.0067,80.2206,Anytime
+158,6,Gedee Car Museum,Museum,Houses a classic and vintage collection of cars.,,,100,4.7,11.0004,76.9739,Anytime
+159,6,Perur Pateeswarar Temple,Temple,"Ancient temple dedicated to Lord Shiva, divine architecture.",,,Free,4.6,10.9908,76.9272,Morning
+160,6,VOC Park and Zoo,Relaxation,Amusement park and zoo with many play areas.,,,5,4.1,11.0011,76.9744,Evening
+161,7,Cherai Beach,Nature,Famous for its unique shallow and calm waters.,,,Free,4.5,10.1416,76.1783,Anytime
+162,7,Hill Palace Museum,Museum,Largest archaeological museum in Kerala.,,,30,4.4,9.9529,76.3506,Anytime
+163,7,Wonderla Kochi,Adventure,A popular amusement park with many thrilling rides.,,,1200,4.6,10.0346,76.3965,Anytime
+164,19,Lotus Temple,Spiritual,Baha'i House of Worship known for its flowerlike shape.,,,Free,4.5,28.5535,77.2588,Anytime
+165,19,Akshardham,Spiritual,A massive Hindu temple complex with water shows.,,,Free,4.8,28.6127,77.2773,Evening
+166,19,Humayun's Tomb,Historic,First garden-tomb on the Indian subcontinent.,,,40,4.7,28.5933,77.2507,Anytime
+167,20,Mehtab Bagh,Nature,A charbagh complex providing a view of the Taj Mahal.,,,25,4.4,27.1798,78.0421,Sunset
+168,20,Itimad-ud-Daulah,Historic,Often described as a 'jewel box' or 'Baby Taj'.,,,30,4.5,27.193,78.0319,Anytime
+169,20,Akbar's Tomb,Historic,Important Mughal architectural masterpiece in Sikandra.,,,30,4.6,27.2205,77.9504,Anytime
+170,21,Assi Ghat,Spiritual,"The southernmost ghat in Varanasi, popular for aarti.",,,Free,4.6,25.2897,83.0067,Sunrise
+171,21,Ramnagar Fort,Historic,Fortified palace on the eastern bank of Ganges.,,,20,4.0,25.2681,83.0232,Anytime
+172,21,Bharat Kala Bhavan,Museum,Museum within BHU campus with ancient paintings.,,,10,4.4,25.2639,82.9904,Anytime
+173,22,Bara Imambara,Historic,Famous for its unique labyrinth known as Bhulbhulaiya.,,,50,4.6,26.8689,80.9126,Anytime
+174,22,Rumi Darwaza,Historic,An imposing gateway built under Nawab Asaf-ud-Daula.,,,Free,4.5,26.8685,80.9152,Anytime
+175,22,The Residency,Historic,Ruins of former residence for the British Resident General.,,,20,4.4,26.8523,80.9231,Anytime
+176,23,JK Temple,Spiritual,Beautiful temple constructed with white marble and intricate carvings.,,,Free,4.7,26.4764,80.3015,Morning
+177,23,Moti Jheel,Relaxation,A drinking water reservoir and popular recreation park.,,,Free,3.9,26.4716,80.3152,Evening
+178,23,Blue World Theme Park,Adventure,A large water and amusement park with various zones.,,,700,4.1,26.5447,80.2052,Anytime
+179,24,Victoria Memorial,Historic,Large marble building dedicated to Queen Victoria.,,,30,4.7,22.5448,88.3426,Anytime
+180,24,Howrah Bridge,Historic,Iconic cantilever bridge over the Hooghly River.,,,Free,4.6,22.5851,88.3468,Evening
+181,24,Dakshineswar Kali Temple,Spiritual,Ancient temple dedicated to Goddess Kali on the river bank.,,,Free,4.8,22.655,88.3575,Morning
+182,25,Tiger Hill,Nature,Famous for its panoramic views of Mt. Everest and Kanchenjunga.,,,Free,4.8,27.0001,88.2501,Sunrise
+183,25,Batasia Loop,Historic,A spiral railway and war memorial with garden views.,,,15,4.5,27.0223,88.2472,Anytime
+184,25,Himalayan Mountaineering Institute,Museum,"Founded by Tenzing Norgay, houses mountaineering artifacts.",,,40,4.6,27.0519,88.2616,Anytime
+185,26,Rumtek Monastery,Spiritual,A prominent Tibetan Buddhist monastery with colorful architecture.,,,Free,4.6,27.2796,88.5638,Anytime
+186,26,Tsomgo Lake,Nature,A glacial lake located at high altitude near the Chinese border.,,,Free,4.8,27.3742,88.7619,Anytime
+187,26,MG Marg,Relaxation,The central shopping and pedestrian hub of Gangtok.,,,Free,4.7,27.3321,88.6133,Evening
+188,27,Golghar,Historic,A massive granary built to store grains during famines.,,,Free,4.2,25.6201,85.1438,Anytime
+189,27,Bihar Museum,Museum,A state-of-the-art museum showcasing Bihar's rich history.,,,100,4.7,25.6111,85.1347,Anytime
+190,27,Patna Sahib Gurudwara,Spiritual,"Birthplace of Guru Gobind Singh, the tenth Sikh Guru.",,,Free,4.8,25.5964,85.2269,Anytime
+191,28,Mahabodhi Temple,Spiritual,UNESCO site where Buddha attained enlightenment.,,,Free,4.9,24.696,84.9912,Anytime
+192,28,Great Buddha Statue,Spiritual,An 80-foot high statue of Buddha in meditation pose.,,,Free,4.7,24.6901,84.9867,Anytime
+193,28,Thai Monastery,Spiritual,Monastery built by Thailand government with golden roof.,,,Free,4.5,24.6991,84.9881,Anytime
+194,29,Kamakhya Temple,Spiritual,Ancient temple dedicated to the mother goddess Kamakhya.,,,Free,4.8,26.1661,91.7058,Morning
+195,29,Umananda Island,Nature,Smallest inhabited river island in the world.,,,20,4.4,26.196,91.7501,Anytime
+196,29,Assam State Zoo,Nature,Botanical garden and zoo with many endemic species.,,,30,4.2,26.1601,91.7801,Morning
+197,30,Elephant Falls,Nature,Three-step waterfall surrounded by lush greenery.,,,20,4.5,25.5332,91.8541,Anytime
+198,30,Shillong Peak,Nature,Highest point in Shillong with sweeping valley views.,,,30,4.4,25.5264,91.8841,Sunrise
+199,30,Umiam Lake,Nature,A vast and beautiful reservoir popular for water sports.,,,Free,4.6,25.6561,91.8911,Evening
+200,31,Rock Garden,Museum,Fantasy garden built from industrial and home waste.,,,30,4.7,30.7525,76.8101,Anytime
+201,31,Sukhna Lake,Relaxation,Artificial lake at the foothills of the Himalayas.,,,Free,4.6,30.7421,76.8184,Evening
+202,31,Rose Garden,Nature,Asia's largest rose garden with 1600 species of roses.,,,Free,4.5,30.7451,76.7731,Morning
+203,32,Golden Temple,Spiritual,"The holiest Gurudwara of Sikhism, famous for its golden gilded dome.",,,Free,4.9,31.62,74.8765,Morning
+204,32,Jallianwala Bagh,Historic,A public garden and memorial of national importance.,,,Free,4.6,31.621,74.8801,Anytime
+205,32,Wagah Border,Historic,"The international border between India and Pakistan, famous for the ceremony.",,,Free,4.8,31.6042,74.5714,Evening
+206,33,Vaishno Devi Temple,Spiritual,A major pilgrimage site located in the Trikuta Mountains.,,,Free,4.9,32.9912,74.949,Anytime
+207,33,Bahu Fort,Historic,Ancient fort offering a panoramic view of Old Jammu city.,,,10,4.3,32.7291,74.8872,Anytime
+208,33,Raghunath Temple,Spiritual,One of the largest temple complexes in Northern India.,,,Free,4.6,32.7291,74.8622,Anytime
+209,34,Dal Lake,Nature,"The 'Jewel in the crown of Kashmir', famous for houseboats and shikaras.",,,Free,4.7,34.1132,74.8691,Anytime
+210,34,Mughal Gardens,Nature,A group of gardens built by the Mughals in typical Persian style.,,,20,4.5,34.1201,74.8701,Anytime
+211,34,Shankaracharya Temple,Spiritual,Ancient Hindu temple situated on top of the Shankaracharya Hill.,,,Free,4.6,34.0681,74.8462,Anytime
+212,35,Mall Road,Relaxation,"The main shopping street of Shimla, lined with shops and restaurants.",,,Free,4.5,31.1045,77.1741,Evening
+213,35,Jakhu Temple,Spiritual,"Ancient temple dedicated to Lord Hanuman, located on Jakhu Hill.",,,Free,4.4,31.1011,77.1852,Anytime
+214,35,Christ Church,Historic,"The second oldest church in Northern India, built in Neo-Gothic style.",,,Free,4.6,31.1051,77.1749,Anytime
+215,36,Hadimba Devi Temple,Spiritual,An ancient cave temple dedicated to Hidimbi Devi.,,,Free,4.6,32.2482,77.1802,Anytime
+216,36,Solang Valley,Adventure,"A side valley at the top of the Kullu Valley, famous for winter sports.",,,Free,4.7,32.3161,77.1551,Winter
+217,36,Rohtang Pass,Nature,A high mountain pass connecting Kullu Valley with Lahaul and Spiti.,,,Free,4.8,32.3716,77.2467,Summer
+218,37,Upper Lake,Nature,"The largest artificial lake in Asia, popular for water sports.",,,Free,4.4,23.2451,77.3452,Evening
+219,37,Van Vihar National Park,Nature,A national park and zoo located in the heart of Bhopal.,,,15,4.3,23.2301,77.3752,Morning
+220,37,Sanchi Stupa,Historic,"One of the oldest stone structures in India, a UNESCO site.",,,30,4.8,23.4751,77.7401,Anytime
+221,38,Rajwada Palace,Historic,"Historical palace of the Holkar dynasty, featuring Maratha style.",,,10,4.4,22.7181,75.8576,Anytime
+222,38,Lal Bagh Palace,Historic,Grand 19th-century palace reflecting European architecture.,,,15,4.5,22.7041,75.8452,Anytime
+223,38,Khajrana Ganesh Temple,Spiritual,Historical temple built by Rani Ahilyabai Holkar.,,,Free,4.8,22.7441,75.8972,Anytime
+224,39,Lingaraj Temple,Spiritual,"Ancient Hindu temple dedicated to Lord Shiva, 11th century.",,,Free,4.8,20.2381,85.8338,Morning
+225,39,Udayagiri and Khandagiri Caves,Historic,Partly natural and partly artificial caves of Jain importance.,,,Free,4.4,20.2601,85.7862,Anytime
+226,39,Odisha State Museum,Museum,Houses an extensive collection of palm leaf manuscripts.,,,10,4.3,20.2631,85.8401,Anytime
+227,40,Jagannath Temple,Spiritual,"Important Hindu temple dedicated to Jagannath, a form of Vishnu.",,,Free,4.9,19.8048,85.8181,Anytime
+228,40,Puri Beach,Nature,"Popular beach on the Bay of Bengal, famous for sand art.",,,Free,4.5,19.7981,85.8242,Evening
+229,40,Konark Sun Temple,Historic,"A 13th-century Sun Temple, built in the shape of a giant chariot.",,,40,4.8,19.8876,86.0945,Anytime
+230,41,Lakshman Jhula,Historic,An iron suspension bridge across the river Ganges.,,,Free,4.6,30.1301,78.3301,Anytime
+231,41,Triveni Ghat,Spiritual,"The most sacred ghat in Rishikesh, famous for Ganga Aarti.",,,Free,4.7,30.1064,78.3021,Evening
+232,41,Parmarth Niketan,Spiritual,A large ashram known for its spiritual garden and clean environment.,,,Free,4.7,30.1211,78.3151,Anytime
+233,42,Alappuzha Beach,Relaxation,Popular beach known for its pier that extends into the sea.,,,Free,4.4,9.4911,76.3211,Evening
+234,42,Marari Beach,Relaxation,"A quiet and calm beach, perfect for unwinding.",,,Free,4.5,9.6011,76.3001,Anytime
+235,42,Pathiramanal Island,Nature,"A small island in Vembanad Lake, home to rare migratory birds.",,,Free,4.2,9.6101,76.3801,Anytime
+236,43,Gulmarg Gondola,Adventure,"One of the highest cable cars in the world, offering snowy views.",,,740,4.8,34.0531,74.3861,Anytime
+237,43,Alpather Lake,Nature,A high-altitude lake that remains frozen until mid-June.,,,Free,4.7,33.9801,74.3601,Summer
+238,43,Khilanmarg,Adventure,A small valley offering a panoramic view of the Himalayas.,,,Free,4.6,34.0401,74.3701,Winter
+239,44,Pangong Tso,Nature,A beautiful high-altitude lake known for its changing colors.,,,Free,4.9,33.7595,78.6674,Summer
+240,44,Nubra Valley,Nature,"Known for its orchards, scenic vistas, and Bactrian camels.",,,Free,4.8,34.6861,77.5501,Summer
+241,44,Magnetic Hill,Adventure,A gravity hill where vehicles appear to roll uphill.,,,Free,4.2,34.1681,77.3452,Anytime
+242,45,Elephant Stables,Historic,Grand domed structures used to house royal elephants.,,,25,4.5,15.3341,76.4682,Anytime
+243,45,Matanga Hill,Nature,"Highest point in Hampi, offering best views of the ruins.",,,Free,4.7,15.3301,76.4651,Sunrise
+244,45,Hemakuta Hill,Historic,A hilltop dotted with many pre-Vijayanagara temples.,,,Free,4.6,15.3331,76.4571,Sunset
+245,46,Abbey Falls,Nature,A spectacular waterfall located in the middle of coffee estates.,,,15,4.5,12.4571,75.7191,Anytime
+246,46,Raja's Seat,Relaxation,A garden with seasonal flowers and musical fountains.,,,5,4.4,12.4171,75.7381,Evening
+247,46,Talakaveri,Spiritual,"The source of the river Kaveri, located on Brahmagiri hills.",,,Free,4.7,12.3841,75.4851,Morning
+248,47,Tribal Museum,Museum,Showcases the culture and traditions of local tribes.,,,20,4.3,18.3311,82.8552,Anytime
+249,47,Galikonda View Point,Nature,Highest point in the hill station with valley views.,,,Free,4.5,18.2701,82.9001,Sunrise
+250,47,Ananthagiri Hills,Nature,A scenic hill station known for its coffee plantations.,,,Free,4.6,18.2301,83.0101,Anytime

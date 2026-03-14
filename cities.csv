@@ -1,0 +1,48 @@
+city_id,city_name,state,country,description,best_season,airport_info,latitude,longitude
+1,Hyderabad,Telangana,India,"Hyderabad is known for its iconic Charminar, rich history, IT industry, and delicious Hyderabadi biryani.",Winter,International,17.385,78.4867
+2,Visakhapatnam,Andhra Pradesh,India,"Visakhapatnam, also known as Vizag, is famous for its beaches, port, Araku Valley, and natural beauty.",All-year,Domestic,17.6868,83.2185
+3,Bengaluru,Karnataka,India,"IT capital of India, known for gardens and nightlife.",Winter,International,12.9716,77.5946
+4,Mysore,Karnataka,India,Historic city famous for Mysore Palace and Dasara festival.,Winter,Domestic,12.2958,76.6394
+5,Chennai,Tamil Nadu,India,"Coastal city known for Marina Beach, temples, and cultural heritage.",Winter,International,13.0827,80.2707
+6,Coimbatore,Tamil Nadu,India,Industrial city known for textiles and proximity to hill stations.,Winter,Domestic,11.0168,76.9558
+7,Kochi,Kerala,India,"Port city known for backwaters, Chinese fishing nets, and Fort Kochi.",Winter,Domestic,9.9312,76.2673
+8,Thiruvananthapuram,Kerala,India,Capital city known for Padmanabhaswamy Temple and Kovalam Beach.,Winter,Domestic,8.5241,76.9366
+9,Mumbai,Maharashtra,India,"Financial capital of India, famous for Bollywood and Gateway of India.",Winter,International,19.076,72.8777
+10,Pune,Maharashtra,India,Educational and cultural hub known for universities and historical sites.,Winter,Domestic,18.5204,73.8567
+11,Nagpur,Maharashtra,India,Central India city known for oranges and Nag River.,Winter,Domestic,21.1458,79.0882
+12,Aurangabad,Maharashtra,India,Historic city known for Ajanta and Ellora caves.,Winter,Domestic,19.8762,75.3433
+13,Panaji (Goa),Goa,India,"Capital city of Goa, known for Portuguese architecture and beaches.",Winter,Domestic,15.4909,73.8278
+14,Ahmedabad,Gujarat,India,Major city known for Sabarmati Ashram and textile industry.,Winter,International,23.0225,72.5714
+15,Surat,Gujarat,India,Commercial hub famous for diamonds and textiles.,Winter,Domestic,21.1702,72.8311
+16,Jaipur,Rajasthan,India,"Pink City famous for palaces, forts, and culture.",Winter,Domestic,26.9124,75.7873
+17,Udaipur,Rajasthan,India,City of lakes known for palaces and lakes.,Winter,Domestic,24.5854,73.7125
+18,"Jodhpur     Rajasthan  India           Blue City famous for Mehrangarh Fort and desert cultureWinter,Domestic,26.2389,73.0243",,,Blue City famous for Mehrangarh Fort and desert culture.,Winter,Domestic,26.2389,73.0243
+19,Delhi,Delhi,India,"Capital city with historical monuments, politics, and modern infrastructure.",Winter,International,28.6139,77.209
+20,Agra,Uttar Pradesh,India,City famous for Taj Mahal and Mughal architecture.,Winter,Domestic,27.1767,78.0081
+21,Varanasi,Uttar Pradesh,India,Spiritual city on the banks of Ganges known for ghats and rituals.,Winter,Domestic,25.3176,82.9739
+22,Lucknow,Uttar Pradesh,India,Historic city known for Nawabi culture and cuisine.,Winter,Domestic,26.8467,80.9462
+23,Kanpur,Uttar Pradesh,India,Industrial city known for leather industry.,Winter,Domestic,26.4499,80.3319
+24,Kolkata,West Bengal,India,"Cultural capital known for Howrah Bridge, Victoria Memorial, and literature.",Winter,International,22.5726,88.3639
+25,Darjeeling,West Bengal,India,Hill station famous for tea gardens and panoramic views.,Summer,Domestic,27.036,88.2627
+26,Gangtok,Sikkim,India,"Capital city known for monasteries, mountains, and scenic beauty.",Summer,Domestic,27.3389,88.6065
+27,Patna,Bihar,India,Historic city on the banks of Ganges with Buddhist heritage.,Winter,Domestic,25.5941,85.1376
+28,Bodh Gaya,Bihar,India,Pilgrimage city famous for Mahabodhi Temple.,Winter,Domestic,24.695,84.991
+29,Guwahati,Assam,India,"Gateway to Northeast India, known for Kamakhya Temple and Brahmaputra River.",Winter,Domestic,26.1445,91.7362
+30,Shillong,Meghalaya,India,Hill station known for scenic beauty and waterfalls.,Summer,Domestic,25.5788,91.8933
+31,Chandigarh,Chandigarh,India,Planned city known for architecture and gardens.,Winter,Domestic,30.7333,76.7794
+32,Amritsar,Punjab,India,City famous for Golden Temple and Sikh heritage.,Winter,Domestic,31.634,74.8723
+33,Jammu,Jammu & Kashmir,India,City known for temples and gateway to Kashmir.,Winter,Domestic,32.7266,74.857
+34,Srinagar,Jammu & Kashmir,India,"City famous for Dal Lake, houseboats, and Mughal gardens.",Summer,Domestic,34.0837,74.7973
+35,Shimla,Himachal Pradesh,India,Hill station known for colonial architecture and scenic hills.,Summer,Domestic,31.1048,31.1048
+36,Manali,Himachal Pradesh,India,Popular hill station known for adventure sports and snow.,Winter,Domestic,32.2432,77.1887
+37,Bhopal,Madhya Pradesh,India,Capital city known for lakes and historical landmarks.,Winter,Domestic,23.2599,77.4126
+38,Indore,Madhya Pradesh,India,"Commercial hub known for food, trade, and Rajwada Palace.",Winter,Domestic,22.7196,75.8577
+39,Bhubaneswar,Odisha,India,Capital city famous for temples and heritage sites.,Winter,Domestic,20.2961,85.8245
+40,Puri,Odisha,India,Coastal city famous for Jagannath Temple and beaches.,Winter,Domestic,19.8135,85.8312
+41,Rishikesh,Uttar Pradesh,India,"Rishikesh is a holy town on the Ganges at the foothills of the Himalayas, known as the Yoga Capital of the World, famous for ashrams, temples, river-rafting, spiritual retreats and natural beauty.",Winter,Domestic,30.10778,78.29255
+42,Alleppey,Kerala,India,"Alappuzha (Alleppey) is known for its serene backwaters, houseboat cruises, canals, beaches and lagoons; often called the 'Venice of the East'.",Winter,Domestic,9.498067,76.338844
+43,Gulmarg,Jammu & Kashmir,India,"Gulmarg is a picturesque hill station in the Himalayas, famous for skiing in winter, scenic meadows, gondola rides (one of the highest in the world), and natural beauty.",Winter,Domestic,34.0531,74.3815
+44,Ladakh,Leh,India,"Ladakh (Leh) is a high-altitude desert mountain region nestled in the Himalayas, known for its rugged scenic landscapes, Buddhist monasteries, dramatic valleys (Nubra, Zanskar), turquoise lakes (Pangong), high passes, and unique mountain-culture",Summer,Domestic,34.1526,77.577
+45,Hampi,Karnataka,India,Hampi is a legendary historical town on the banks of the Tungabhadra River — once the thriving capital of the Vijayanagara Empire ,Post-monsoon & Winter,Domestic,15.335,76.46
+46,Coorg,Karnataka,India,"Coorg, also known as Kodagu, is a popular hill station in Karnataka, famous for coffee plantations, lush forests, waterfalls, wildlife sanctuaries, and cultural heritage. Major attractions include Abbey Falls, Raja’s Seat, Dubare Elephant Camp, and Talakaveri.",Post-monsoon & Winter,Domestic,12.3375,75.8069
+47,Araku,Andhra Pradesh,India,"Araku Valley is a picturesque hill station in the Eastern Ghats, famous for coffee plantations, waterfalls, tribal culture, and scenic train rides through lush forests and valleys. Major attractions include Katiki Waterfalls, Borra Caves, and Ananthagiri Hills.",,Domestic,18.3333,82.8333

@@ -1,0 +1,283 @@
+city_id,Restaurant Name,Country,Description,Rating
+1,Spice Garden,India,Famous for delicious biryani and traditional recipes.,3.6
+1,Fusion Feast,India,Renowned for its excellent customer service and cozy atmosphere.,3.9
+1,The Hungry Fork,India,Famous for delicious biryani and traditional recipes.,4.3
+1,City Lights Restaurant,India,Serves flavorful dishes made with fresh local ingredients.,3.7
+1,Palm Grove,India,Serves flavorful dishes made with fresh local ingredients.,4.5
+1,Ocean Pearl,India,Famous for delicious biryani and traditional recipes.,4.5
+2,Food Fiesta,India,Known for its authentic Indian cuisine and warm ambiance.,4.7
+2,Ocean Pearl,India,Known for its authentic Indian cuisine and warm ambiance.,5
+2,Classic Dhaba,India,A favorite spot for food lovers seeking rich and tasty meals.,4.6
+2,Saffron Delight,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.5
+2,Palm Grove,India,Renowned for its excellent customer service and cozy atmosphere.,5
+2,Urban Spice Hub,India,Known for its authentic Indian cuisine and warm ambiance.,4.9
+3,Ocean Pearl,India,Known for its authentic Indian cuisine and warm ambiance.,4.3
+3,Taste of India,India,Known for its authentic Indian cuisine and warm ambiance.,3.7
+3,Silver Plate,India,Serves flavorful dishes made with fresh local ingredients.,3.8
+3,Flavors Cafe,India,Serves flavorful dishes made with fresh local ingredients.,3.6
+3,Urban Tandoor,India,Popular for freshly prepared dishes and family-friendly dining.,4.7
+3,Saffron Delight,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4
+4,Spice Garden,India,A favorite spot for food lovers seeking rich and tasty meals.,4.7
+4,Heritage Kitchen,India,A favorite spot for food lovers seeking rich and tasty meals.,4.9
+4,Golden Spoon,India,Serves flavorful dishes made with fresh local ingredients.,4.3
+4,Saffron Delight,India,A favorite spot for food lovers seeking rich and tasty meals.,3.6
+4,City Lights Restaurant,India,Known for its authentic Indian cuisine and warm ambiance.,3.5
+4,Skyline Rooftop,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.8
+5,Mint Leaf Restaurant,India,A perfect place for casual dining with quality service.,4.7
+5,Spice Garden,India,Serves flavorful dishes made with fresh local ingredients.,3.6
+5,Taste of India,India,Known for its authentic Indian cuisine and warm ambiance.,4.2
+5,Urban Tandoor,India,Popular for freshly prepared dishes and family-friendly dining.,3.5
+5,Mountain View Diner,India,Popular for freshly prepared dishes and family-friendly dining.,4.9
+5,Ocean Pearl,India,Famous for delicious biryani and traditional recipes.,4
+6,Urban Tandoor,India,Popular for freshly prepared dishes and family-friendly dining.,3.6
+6,Ocean Pearl,India,A favorite spot for food lovers seeking rich and tasty meals.,3.8
+6,Spice Garden,India,A perfect place for casual dining with quality service.,4.5
+6,Mountain View Diner,India,Serves flavorful dishes made with fresh local ingredients.,3.6
+6,Coastal Catch,India,A favorite spot for food lovers seeking rich and tasty meals.,4.3
+6,Sunset Dine,India,Famous for delicious biryani and traditional recipes.,4.9
+7,Heritage Kitchen,India,Serves flavorful dishes made with fresh local ingredients.,4.5
+7,Silver Plate,India,Renowned for its excellent customer service and cozy atmosphere.,3.6
+7,City Lights Restaurant,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.1
+7,Urban Tandoor,India,A perfect place for casual dining with quality service.,3.6
+7,The Food Court,India,A perfect place for casual dining with quality service.,3.9
+7,Coastal Catch,India,A perfect place for casual dining with quality service.,4.2
+8,Green Leaf Kitchen,India,Famous for delicious biryani and traditional recipes.,4.6
+8,Fusion Feast,India,Famous for delicious biryani and traditional recipes.,4.2
+8,Urban Spice Hub,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.5
+8,Ocean Pearl,India,Known for its authentic Indian cuisine and warm ambiance.,4.2
+8,Palm Grove,India,Renowned for its excellent customer service and cozy atmosphere.,3.8
+8,Grand Thali,India,Popular for freshly prepared dishes and family-friendly dining.,3.8
+9,Mountain View Diner,India,Renowned for its excellent customer service and cozy atmosphere.,4.5
+9,Saffron Delight,India,Known for its authentic Indian cuisine and warm ambiance.,3.9
+9,The Hungry Fork,India,Renowned for its excellent customer service and cozy atmosphere.,4.1
+9,Mint Leaf Restaurant,India,Renowned for its excellent customer service and cozy atmosphere.,4.3
+9,Village Treat,India,Renowned for its excellent customer service and cozy atmosphere.,3.6
+9,Aroma Multicuisine,India,Popular for freshly prepared dishes and family-friendly dining.,4
+10,Palm Grove,India,Known for its authentic Indian cuisine and warm ambiance.,3.9
+10,Urban Spice Hub,India,Renowned for its excellent customer service and cozy atmosphere.,4.4
+10,Food Fiesta,India,Popular for freshly prepared dishes and family-friendly dining.,4.9
+10,The Curry Point,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.8
+10,Flavors Cafe,India,Famous for delicious biryani and traditional recipes.,4.8
+10,Skyline Rooftop,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.7
+11,Urban Tandoor,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.5
+11,Food Fiesta,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.1
+11,Spice Garden,India,A favorite spot for food lovers seeking rich and tasty meals.,4
+11,Urban Spice Hub,India,A perfect place for casual dining with quality service.,3.9
+11,The Curry Point,India,A favorite spot for food lovers seeking rich and tasty meals.,3.5
+11,Heritage Kitchen,India,Famous for delicious biryani and traditional recipes.,4.1
+12,Saffron Delight,India,Famous for delicious biryani and traditional recipes.,4.9
+12,The Food Court,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.5
+12,Spice Garden,India,Famous for delicious biryani and traditional recipes.,4.8
+12,The Curry Point,India,Popular for freshly prepared dishes and family-friendly dining.,4
+12,Green Leaf Kitchen,India,A perfect place for casual dining with quality service.,4.4
+12,Royal Biryani House,India,Popular for freshly prepared dishes and family-friendly dining.,4.3
+13,Saffron Delight,India,A perfect place for casual dining with quality service.,4.5
+13,Skyline Rooftop,India,Serves flavorful dishes made with fresh local ingredients.,3.8
+13,Silver Plate,India,Serves flavorful dishes made with fresh local ingredients.,3.7
+13,The Food Court,India,Serves flavorful dishes made with fresh local ingredients.,4.6
+13,Urban Tandoor,India,A perfect place for casual dining with quality service.,4.9
+13,Fusion Feast,India,Famous for delicious biryani and traditional recipes.,3.5
+14,Desi Tadka,India,A favorite spot for food lovers seeking rich and tasty meals.,3.6
+14,Taste of India,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.2
+14,Spice Garden,India,A perfect place for casual dining with quality service.,4.2
+14,Mint Leaf Restaurant,India,A perfect place for casual dining with quality service.,3.7
+14,Palm Grove,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.2
+14,Silver Plate,India,Renowned for its excellent customer service and cozy atmosphere.,3.9
+15,Spice Garden,India,A perfect place for casual dining with quality service.,4.3
+15,Heritage Kitchen,India,Renowned for its excellent customer service and cozy atmosphere.,3.9
+15,Flavors Cafe,India,Famous for delicious biryani and traditional recipes.,4.1
+15,Sunset Dine,India,Popular for freshly prepared dishes and family-friendly dining.,4.8
+15,The Curry Point,India,Popular for freshly prepared dishes and family-friendly dining.,4
+15,Skyline Rooftop,India,Renowned for its excellent customer service and cozy atmosphere.,4.8
+16,Mint Leaf Restaurant,India,Known for its authentic Indian cuisine and warm ambiance.,3.8
+16,Taste of India,India,A favorite spot for food lovers seeking rich and tasty meals.,4.4
+16,Skyline Rooftop,India,A perfect place for casual dining with quality service.,4.8
+16,Blue Lagoon Bistro,India,Famous for delicious biryani and traditional recipes.,5
+16,Grand Thali,India,Popular for freshly prepared dishes and family-friendly dining.,4.4
+16,Green Leaf Kitchen,India,Famous for delicious biryani and traditional recipes.,4.5
+17,Coastal Catch,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.5
+17,Grand Thali,India,Popular for freshly prepared dishes and family-friendly dining.,4.8
+17,Golden Spoon,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.3
+17,Urban Spice Hub,India,Serves flavorful dishes made with fresh local ingredients.,5
+17,The Food Court,India,A favorite spot for food lovers seeking rich and tasty meals.,4.4
+17,Palm Grove,India,Known for its authentic Indian cuisine and warm ambiance.,4.3
+18,The Hungry Fork,India,Renowned for its excellent customer service and cozy atmosphere.,4.7
+18,Fusion Feast,India,Famous for delicious biryani and traditional recipes.,4.2
+18,Heritage Kitchen,India,Known for its authentic Indian cuisine and warm ambiance.,3.8
+18,Spice Garden,India,A favorite spot for food lovers seeking rich and tasty meals.,4.4
+18,Coastal Catch,India,A perfect place for casual dining with quality service.,4.7
+18,Grand Thali,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.9
+19,Flavors Cafe,India,Famous for delicious biryani and traditional recipes.,4.6
+19,Coastal Catch,India,Renowned for its excellent customer service and cozy atmosphere.,4.2
+19,The Hungry Fork,India,Renowned for its excellent customer service and cozy atmosphere.,3.9
+19,Blue Lagoon Bistro,India,Famous for delicious biryani and traditional recipes.,4.7
+19,Green Leaf Kitchen,India,Known for its authentic Indian cuisine and warm ambiance.,3.7
+19,Heritage Kitchen,India,Serves flavorful dishes made with fresh local ingredients.,4.7
+20,City Lights Restaurant,India,Famous for delicious biryani and traditional recipes.,4.9
+20,Aroma Multicuisine,India,A favorite spot for food lovers seeking rich and tasty meals.,3.6
+20,Mountain View Diner,India,A favorite spot for food lovers seeking rich and tasty meals.,3.8
+20,Royal Biryani House,India,A perfect place for casual dining with quality service.,3.7
+20,Spice Garden,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.7
+20,Coastal Catch,India,Renowned for its excellent customer service and cozy atmosphere.,3.6
+21,Aroma Multicuisine,India,A perfect place for casual dining with quality service.,4.3
+21,Saffron Delight,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.3
+21,Spice Garden,India,Popular for freshly prepared dishes and family-friendly dining.,4
+21,Urban Spice Hub,India,A perfect place for casual dining with quality service.,3.8
+21,Fusion Feast,India,Known for its authentic Indian cuisine and warm ambiance.,4.6
+21,Mountain View Diner,India,Renowned for its excellent customer service and cozy atmosphere.,4.9
+22,Royal Biryani House,India,Renowned for its excellent customer service and cozy atmosphere.,4.2
+22,Mint Leaf Restaurant,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.8
+22,Palm Grove,India,A perfect place for casual dining with quality service.,3.9
+22,Blue Lagoon Bistro,India,Famous for delicious biryani and traditional recipes.,3.7
+22,Golden Spoon,India,A perfect place for casual dining with quality service.,4.1
+22,Spice Garden,India,A favorite spot for food lovers seeking rich and tasty meals.,3.6
+23,Saffron Delight,India,A favorite spot for food lovers seeking rich and tasty meals.,4
+23,Mint Leaf Restaurant,India,Famous for delicious biryani and traditional recipes.,4.1
+23,The Curry Point,India,Popular for freshly prepared dishes and family-friendly dining.,4.4
+23,Sunset Dine,India,Popular for freshly prepared dishes and family-friendly dining.,4.8
+23,Taste of India,India,Popular for freshly prepared dishes and family-friendly dining.,4.3
+23,Ocean Pearl,India,A favorite spot for food lovers seeking rich and tasty meals.,5
+24,City Lights Restaurant,India,Famous for delicious biryani and traditional recipes.,4.3
+24,Classic Dhaba,India,Serves flavorful dishes made with fresh local ingredients.,4.5
+24,Sunset Dine,India,A favorite spot for food lovers seeking rich and tasty meals.,4.2
+24,Blue Lagoon Bistro,India,A favorite spot for food lovers seeking rich and tasty meals.,4.8
+24,Aroma Multicuisine,India,Serves flavorful dishes made with fresh local ingredients.,5
+24,Food Fiesta,India,Famous for delicious biryani and traditional recipes.,4.2
+25,Golden Spoon,India,Serves flavorful dishes made with fresh local ingredients.,4.4
+25,Green Leaf Kitchen,India,Popular for freshly prepared dishes and family-friendly dining.,5
+25,Urban Tandoor,India,Known for its authentic Indian cuisine and warm ambiance.,3.6
+25,Ocean Pearl,India,A favorite spot for food lovers seeking rich and tasty meals.,4.2
+25,Saffron Delight,India,Popular for freshly prepared dishes and family-friendly dining.,3.8
+25,Coastal Catch,India,Renowned for its excellent customer service and cozy atmosphere.,4.5
+26,Golden Spoon,India,Popular for freshly prepared dishes and family-friendly dining.,3.9
+26,Coastal Catch,India,A favorite spot for food lovers seeking rich and tasty meals.,4.7
+26,Village Treat,India,Known for its authentic Indian cuisine and warm ambiance.,3.8
+26,Urban Tandoor,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.8
+26,Aroma Multicuisine,India,Famous for delicious biryani and traditional recipes.,3.8
+26,The Hungry Fork,India,Renowned for its excellent customer service and cozy atmosphere.,4
+27,The Food Court,India,Popular for freshly prepared dishes and family-friendly dining.,3.9
+27,Grand Thali,India,Known for its authentic Indian cuisine and warm ambiance.,4
+27,Blue Lagoon Bistro,India,Renowned for its excellent customer service and cozy atmosphere.,3.7
+27,Silver Plate,India,A favorite spot for food lovers seeking rich and tasty meals.,4.8
+27,Ocean Pearl,India,Famous for delicious biryani and traditional recipes.,3.6
+27,Village Treat,India,Serves flavorful dishes made with fresh local ingredients.,5
+28,Ocean Pearl,India,Renowned for its excellent customer service and cozy atmosphere.,3.8
+28,Spice Garden,India,Renowned for its excellent customer service and cozy atmosphere.,4.9
+28,City Lights Restaurant,India,Known for its authentic Indian cuisine and warm ambiance.,3.6
+28,Desi Tadka,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.8
+28,Skyline Rooftop,India,Known for its authentic Indian cuisine and warm ambiance.,3.9
+28,Silver Plate,India,A favorite spot for food lovers seeking rich and tasty meals.,4
+29,Silver Plate,India,Popular for freshly prepared dishes and family-friendly dining.,4.1
+29,Urban Tandoor,India,Known for its authentic Indian cuisine and warm ambiance.,4.3
+29,Taste of India,India,Serves flavorful dishes made with fresh local ingredients.,4.4
+29,Urban Spice Hub,India,A perfect place for casual dining with quality service.,3.8
+29,Heritage Kitchen,India,A perfect place for casual dining with quality service.,4.4
+29,Blue Lagoon Bistro,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.6
+30,Skyline Rooftop,India,Renowned for its excellent customer service and cozy atmosphere.,4.7
+30,Classic Dhaba,India,A favorite spot for food lovers seeking rich and tasty meals.,4.3
+30,Taste of India,India,Famous for delicious biryani and traditional recipes.,4.2
+30,Desi Tadka,India,A perfect place for casual dining with quality service.,4.1
+30,Grand Thali,India,Known for its authentic Indian cuisine and warm ambiance.,4.5
+30,City Lights Restaurant,India,A favorite spot for food lovers seeking rich and tasty meals.,4.3
+31,Mint Leaf Restaurant,India,A perfect place for casual dining with quality service.,4.4
+31,Village Treat,India,Renowned for its excellent customer service and cozy atmosphere.,4.8
+31,Palm Grove,India,A perfect place for casual dining with quality service.,4.3
+31,Urban Spice Hub,India,A favorite spot for food lovers seeking rich and tasty meals.,4.6
+31,Coastal Catch,India,Renowned for its excellent customer service and cozy atmosphere.,4.8
+31,Ocean Pearl,India,Popular for freshly prepared dishes and family-friendly dining.,3.7
+32,The Curry Point,India,Offers a wide range of vegetarian and non-vegetarian specialties.,5
+32,Spice Garden,India,Popular for freshly prepared dishes and family-friendly dining.,4.7
+32,Fusion Feast,India,A perfect place for casual dining with quality service.,4.7
+32,Aroma Multicuisine,India,Known for its authentic Indian cuisine and warm ambiance.,4.2
+32,Village Treat,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.9
+32,City Lights Restaurant,India,Serves flavorful dishes made with fresh local ingredients.,4.1
+33,Grand Thali,India,Renowned for its excellent customer service and cozy atmosphere.,4.6
+33,Golden Spoon,India,Serves flavorful dishes made with fresh local ingredients.,3.9
+33,The Hungry Fork,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.5
+33,City Lights Restaurant,India,A favorite spot for food lovers seeking rich and tasty meals.,4.3
+33,Classic Dhaba,India,Known for its authentic Indian cuisine and warm ambiance.,3.5
+33,Sunset Dine,India,Popular for freshly prepared dishes and family-friendly dining.,4.9
+34,Heritage Kitchen,India,Popular for freshly prepared dishes and family-friendly dining.,3.9
+34,Blue Lagoon Bistro,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.7
+34,Coastal Catch,India,Popular for freshly prepared dishes and family-friendly dining.,4.3
+34,The Hungry Fork,India,Popular for freshly prepared dishes and family-friendly dining.,3.8
+34,City Lights Restaurant,India,A favorite spot for food lovers seeking rich and tasty meals.,3.5
+34,Saffron Delight,India,A favorite spot for food lovers seeking rich and tasty meals.,3.6
+35,Skyline Rooftop,India,Renowned for its excellent customer service and cozy atmosphere.,4.3
+35,Green Leaf Kitchen,India,Renowned for its excellent customer service and cozy atmosphere.,4
+35,Urban Tandoor,India,Renowned for its excellent customer service and cozy atmosphere.,3.8
+35,Royal Biryani House,India,A perfect place for casual dining with quality service.,3.6
+35,The Food Court,India,Serves flavorful dishes made with fresh local ingredients.,4.2
+35,Palm Grove,India,Famous for delicious biryani and traditional recipes.,3.6
+36,Green Leaf Kitchen,India,Serves flavorful dishes made with fresh local ingredients.,3.7
+36,Urban Spice Hub,India,Popular for freshly prepared dishes and family-friendly dining.,4.9
+36,Saffron Delight,India,Known for its authentic Indian cuisine and warm ambiance.,4.1
+36,Palm Grove,India,Famous for delicious biryani and traditional recipes.,4.2
+36,Fusion Feast,India,Serves flavorful dishes made with fresh local ingredients.,3.7
+36,Desi Tadka,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.4
+37,Ocean Pearl,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.5
+37,Grand Thali,India,Known for its authentic Indian cuisine and warm ambiance.,4.1
+37,Blue Lagoon Bistro,India,A perfect place for casual dining with quality service.,5
+37,The Hungry Fork,India,Famous for delicious biryani and traditional recipes.,4.1
+37,Mint Leaf Restaurant,India,Famous for delicious biryani and traditional recipes.,3.9
+37,Village Treat,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.7
+38,Fusion Feast,India,Serves flavorful dishes made with fresh local ingredients.,4.4
+38,Village Treat,India,Renowned for its excellent customer service and cozy atmosphere.,5
+38,Desi Tadka,India,Popular for freshly prepared dishes and family-friendly dining.,4.3
+38,Skyline Rooftop,India,Known for its authentic Indian cuisine and warm ambiance.,4.6
+38,Flavors Cafe,India,Serves flavorful dishes made with fresh local ingredients.,3.8
+38,Golden Spoon,India,A favorite spot for food lovers seeking rich and tasty meals.,4.8
+39,Blue Lagoon Bistro,India,Renowned for its excellent customer service and cozy atmosphere.,4.9
+39,Silver Plate,India,A perfect place for casual dining with quality service.,3.6
+39,Village Treat,India,Famous for delicious biryani and traditional recipes.,3.6
+39,Skyline Rooftop,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.5
+39,Royal Biryani House,India,Known for its authentic Indian cuisine and warm ambiance.,4.4
+39,City Lights Restaurant,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.6
+40,Golden Spoon,India,Famous for delicious biryani and traditional recipes.,4.9
+40,Classic Dhaba,India,Known for its authentic Indian cuisine and warm ambiance.,4.1
+40,Green Leaf Kitchen,India,Known for its authentic Indian cuisine and warm ambiance.,4.5
+40,Blue Lagoon Bistro,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.8
+40,The Hungry Fork,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.7
+40,Ocean Pearl,India,A favorite spot for food lovers seeking rich and tasty meals.,3.7
+41,Urban Spice Hub,India,Renowned for its excellent customer service and cozy atmosphere.,4.4
+41,Spice Garden,India,Renowned for its excellent customer service and cozy atmosphere.,4.9
+41,The Food Court,India,Renowned for its excellent customer service and cozy atmosphere.,4.9
+41,Silver Plate,India,Renowned for its excellent customer service and cozy atmosphere.,4.4
+41,Sunset Dine,India,A favorite spot for food lovers seeking rich and tasty meals.,4.1
+41,Urban Tandoor,India,A perfect place for casual dining with quality service.,4.9
+42,The Food Court,India,Popular for freshly prepared dishes and family-friendly dining.,3.6
+42,Skyline Rooftop,India,Known for its authentic Indian cuisine and warm ambiance.,4.6
+42,Golden Spoon,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.5
+42,Ocean Pearl,India,Serves flavorful dishes made with fresh local ingredients.,4.6
+42,Spice Garden,India,A favorite spot for food lovers seeking rich and tasty meals.,4.9
+42,Heritage Kitchen,India,Renowned for its excellent customer service and cozy atmosphere.,3.7
+43,City Lights Restaurant,India,Famous for delicious biryani and traditional recipes.,3.9
+43,Desi Tadka,India,Offers a wide range of vegetarian and non-vegetarian specialties.,3.9
+43,Spice Garden,India,Serves flavorful dishes made with fresh local ingredients.,4.1
+43,The Curry Point,India,A perfect place for casual dining with quality service.,4.7
+43,Classic Dhaba,India,Renowned for its excellent customer service and cozy atmosphere.,3.6
+43,Saffron Delight,India,A perfect place for casual dining with quality service.,3.7
+44,Green Leaf Kitchen,India,Renowned for its excellent customer service and cozy atmosphere.,4
+44,Coastal Catch,India,Renowned for its excellent customer service and cozy atmosphere.,4
+44,Food Fiesta,India,A perfect place for casual dining with quality service.,4.1
+44,Sunset Dine,India,A favorite spot for food lovers seeking rich and tasty meals.,4.7
+44,Flavors Cafe,India,A favorite spot for food lovers seeking rich and tasty meals.,3.6
+44,Village Treat,India,A favorite spot for food lovers seeking rich and tasty meals.,4.4
+45,Green Leaf Kitchen,India,A perfect place for casual dining with quality service.,4.9
+45,Taste of India,India,A perfect place for casual dining with quality service.,3.7
+45,Blue Lagoon Bistro,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.6
+45,Mint Leaf Restaurant,India,Renowned for its excellent customer service and cozy atmosphere.,4.9
+45,Golden Spoon,India,Popular for freshly prepared dishes and family-friendly dining.,3.6
+45,Sunset Dine,India,Renowned for its excellent customer service and cozy atmosphere.,3.5
+46,Desi Tadka,India,Renowned for its excellent customer service and cozy atmosphere.,4.8
+46,The Hungry Fork,India,A favorite spot for food lovers seeking rich and tasty meals.,4.8
+46,Heritage Kitchen,India,Known for its authentic Indian cuisine and warm ambiance.,3.9
+46,Mint Leaf Restaurant,India,Serves flavorful dishes made with fresh local ingredients.,4
+46,Blue Lagoon Bistro,India,Known for its authentic Indian cuisine and warm ambiance.,4.9
+46,Royal Biryani House,India,Known for its authentic Indian cuisine and warm ambiance.,4.3
+47,Saffron Delight,India,Offers a wide range of vegetarian and non-vegetarian specialties.,4.9
+47,Spice Garden,India,Serves flavorful dishes made with fresh local ingredients.,4.5
+47,Coastal Catch,India,Renowned for its excellent customer service and cozy atmosphere.,3.8
+47,Fusion Feast,India,Popular for freshly prepared dishes and family-friendly dining.,4.1
+47,Ocean Pearl,India,Renowned for its excellent customer service and cozy atmosphere.,3.8
+47,Food Fiesta,India,Famous for delicious biryani and traditional recipes.,3.7
