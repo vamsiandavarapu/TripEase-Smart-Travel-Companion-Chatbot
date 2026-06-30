@@ -54,5 +54,4 @@ Alternatively, start only the backend: `.\start_backend.ps1`
 ## Technologies Used 💻
 FastAPI, Streamlit, Llama 3.2, Sentence-BERT (SentenceTransformers), ChromaDB, SQLite.
 
-## License 📄
-[Add your license details here]
+
